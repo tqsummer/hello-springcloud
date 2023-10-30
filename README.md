@@ -1,2 +1,2 @@
 # hello-springcloud
-hello-springcloud test
+hello-springcloud
